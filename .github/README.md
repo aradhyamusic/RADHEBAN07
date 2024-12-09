@@ -42,7 +42,7 @@
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
 <strong>All credit Goes To</strong>&nbsp;<code>𝐒𝐇𝐈𝐕𝐀𝐍𝐒𝐇 𝐒𝐇𝐔𝐊𝐋𝐀 𓆩💗𓆪</code><br>
-<code>Telegram:- <a href="https://t.me/SHIVANSH39">ＹＯUＲ S H I V A N S H،"(💛</a></code><br>
+<code>Telegram:- <a href="https://t.me/ll_RADHE7_ll">ＹＯUＲ S H I V A N S H،"(💛</a></code><br>
 <code>Github:- <a href="https://github.com/itzshukla">itzshukla</a></code><br>
 </details>
 </p>
