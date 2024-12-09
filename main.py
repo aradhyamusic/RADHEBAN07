@@ -40,7 +40,7 @@ sree = TelegramClient(
 ).start(bot_token=BOT_TOKEN)
 
 Owner = "ll_RADHE7_ll"
-repo = "https://github.com/itzshukla/STRANGER-BANALL"
+repo = "https://github.com/Theradhe/RADHEBAN"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
     buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/FRIENDSHUBCHATZONE"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/SHIVANSH474"), Button.url("••ʀᴇᴘᴏ••", f'{repo}')]
