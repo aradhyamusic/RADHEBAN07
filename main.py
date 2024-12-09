@@ -39,11 +39,11 @@ sree = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "SHIVANSH39"
+Owner = "ll_RADHE7_ll"
 repo = "https://github.com/itzshukla/STRANGER-BANALL"
 @sree.on(events.NewMessage(pattern="^/start"))
 async def start(event):
-    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/STRANGERXWORLD"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/SHIVANSH474"), Button.url("••ʀᴇᴘᴏ••", f'{repo}')]
+    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/FRIENDSHUBCHATZONE"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/SHIVANSH474"), Button.url("••ʀᴇᴘᴏ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
         await sree.send_file(
@@ -77,7 +77,7 @@ async def start(event):
 
 @sree.on(events.NewMessage(pattern="^/help"))
 async def start(event):
-    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/STRANGERXWORLD"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/SHIVANSH474"),
+    buttns = [Button.url("••sᴜᴘᴘᴏʀᴛ••", "https://t.me/ll_BOTCHAMBER_ll"), Button.url("••ᴜᴘᴅᴀᴛᴇs••", "https://t.me/ll_BOTCHAMBER_ll"),
     Button.url("••ʀᴇᴘᴏ••", f'{repo}')]
     py = platform.python_version()
     if event.sender.id in OP:
@@ -177,7 +177,7 @@ async def ver(events):
 
 
 print("ʏᴏᴜʀ ʙᴏᴛ  ᴅᴇᴘʟᴏʏᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅")
-print("ᴊᴏɪɴ @sʜᴛᴀɴɢᴇʀxᴡᴏʀʟᴅ ɪғ ʏᴏᴜ ғᴀᴄɪɴɢ ᴀɴʏ ᴋɪɴᴅ ᴏғ ɪssᴜᴇ!!")
+print("ᴊᴏɪɴ @ll_BOTCHAMBER_ll bccha ɪғ ʏᴏᴜ ғᴀᴄɪɴɢ ᴀɴʏ ᴋɪɴᴅ ᴏғ ɪssᴜᴇ!!")
 
 
 
